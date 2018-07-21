@@ -47,7 +47,7 @@ public class Main {
                 System.out.println("Continued by -> "+continuations);
             }
             else{
-                System.out.println("The given sound is not in the database.");
+                System.out.println("The given sound is not in any song.");
             }
         }
 
